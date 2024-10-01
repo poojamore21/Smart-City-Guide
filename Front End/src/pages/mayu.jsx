@@ -1,11 +1,11 @@
 import React from 'react'
 
-const mayuri = () => {
+const mayu = () => {
   return (
     <div>
-      mayuri
+      hello
     </div>
   )
 }
 
-export default mayuri
+export default mayu
